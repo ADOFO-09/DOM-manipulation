@@ -1,0 +1,1 @@
+DOM manipulation was used 
